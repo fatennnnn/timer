@@ -1,0 +1,7 @@
+.country{
+  display: flex;
+}
+.container-cards{
+  display: flex;
+  justify-content: space-between;
+}
